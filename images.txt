@@ -4,5 +4,9 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rabbitmq:3.8.34
-rabbitmq:3.8.34-management
+#rabbitmq:3.8.34
+#rabbitmq:3.8.34-management
+ghcr.io/bluewave-labs/checkmate-client:latest
+ghcr.io/bluewave-labs/checkmate-backend:latest
+ghcr.io/bluewave-labs/checkmate-mongo:latest
+ghcr.io/bluewave-labs/capture:latest
