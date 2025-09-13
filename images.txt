@@ -10,4 +10,5 @@
 #ghcr.io/bluewave-labs/checkmate-backend:latest
 #ghcr.io/bluewave-labs/checkmate-mongo:latest
 #ghcr.io/bluewave-labs/capture:latest
-squid
+#squid
+docker.io/squid:latest
