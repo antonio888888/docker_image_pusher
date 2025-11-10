@@ -11,4 +11,5 @@
 #ghcr.io/bluewave-labs/checkmate-mongo:latest
 #ghcr.io/bluewave-labs/capture:latest
 #squid
-docker.io/squid:latest
+#docker.io/squid:latest
+oceanbase/oceanbase-ce:4.3.1
